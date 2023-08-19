@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-bottom: 1em;
+}
+
+input[type="text"] {
+    width: 300px;
+}
+
+input[type="submit"] {
+    margin-top: 0.5em;
+}
+
+
+
+
+
+
+
